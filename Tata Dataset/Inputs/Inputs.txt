@@ -1,0 +1,4 @@
+Inputs
+
+Fertilizer Consumption: Data are for Nitrogen (N), Potassium (P2O5), Potash (K2O) and total for all three.
+Seasonal Fertilizer Consumption: The fertilizer consumption data are broken up for Kharif (rainy) and rabi (post rainy) seasons.

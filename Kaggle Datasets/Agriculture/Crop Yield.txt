@@ -1,0 +1,22 @@
+About Dataset
+This dataset encompasses agricultural data for multiple crops cultivated across various states in India from the year 1997 till 2020. The dataset provides crucial features related to crop yield prediction, including crop types, crop years, cropping seasons, states, areas under cultivation, production quantities, annual rainfall, fertilizer usage, pesticide usage, and calculated yields.
+
+Columns Description:
+
+Crop: The name of the crop cultivated.
+Crop_Year: The year in which the crop was grown.
+Season: The specific cropping season (e.g., Kharif, Rabi, Whole Year).
+State: The Indian state where the crop was cultivated.
+Area: The total land area (in hectares) under cultivation for the specific crop.
+Production: The quantity of crop production (in metric tons).
+Annual_Rainfall: The annual rainfall received in the crop-growing region (in mm).
+Fertilizer: The total amount of fertilizer used for the crop (in kilograms).
+Pesticide: The total amount of pesticide used for the crop (in kilograms).
+Yield: The calculated crop yield (production per unit area).
+Use Cases:
+
+This comprehensive dataset is valuable for agricultural analysts, researchers, and data scientists interested in crop yield prediction and agricultural analysis. It offers insights into the relationship between various agronomic factors (e.g., rainfall, fertilizer, pesticide usage) and crop productivity across different states and crop types. Researchers can utilize this data to develop robust machine learning models for crop yield prediction and identify trends in agricultural production.
+
+Note:
+
+Given the diversity of crops, states, and years covered in this dataset, users are encouraged to exercise caution when drawing generalizations or making predictions for specific regions or timeframes outside the scope of the dataset. They are further advised to apply various feature engineering and feature selection techniques on this dataset, so as to make the dataset more robust and suitable for the ML model.

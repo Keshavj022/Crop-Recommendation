@@ -1,0 +1,6 @@
+Biophysical
+
+Land Use: Includes data on geographical area, or reporting area, further breakups for area under forests, non-agricultural land, fallow land, net and gross cropped area.
+Length Of Growing Period: The variable is in number of days and is an indicator of the crop growing period in a given district.
+Monthly Actual Rainfall: Average rainfall data at district level is obtained from secondary sources. The data are averaged across raingauges in a given district.
+Soil Type: Data are for share of different soil types in a given district

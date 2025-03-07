@@ -1,0 +1,5 @@
+District-wise yearly irrigated area.
+
+This file group has two files: 1. crop wise and 2. Source wise irrigation. Crop wise irrigated area includes gross irrigated area under selected cereal, pulses, oilseeds, cotton, sugarcane and total fruits & vegetables. Crop wise irrigation by source is not available. A few states do not report data on crop wise irrigation.
+
+The second file on source wise irrigation includes data on sources of irrigation (canals, tanks, wells etc.) for each district besides gross and net irrigated area. The file also provides data on percent area irrigated by different sources. A few states do not report data for different sources and hence data is available for net or gross irrigated area only.

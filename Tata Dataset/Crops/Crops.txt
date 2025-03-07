@@ -1,0 +1,13 @@
+Crops
+
+
+District-wise yearly area, yield and production.
+This file group has two files: 1. Area, production and yield and 2. High yielding varieties The area, production yield file includes data on 20 major crops that include cereals, pulses, oilseeds, cotton, sugarcane, total fruits and vegetables. Yield is calculated based on area and production.
+
+The data are for the annual area and production under the crops. The percent area under each crop is calculated by dividing crop area by Gross Cropped Area (GCA variable generated using a defined methodology).
+
+For more details see definition and standards and in the data documentation manualthe section on ‘data clarification and anomalies’.
+
+For season wise crop area and production data refer to season wise area and production of crops under additional data); for breakup of fruits and vegetables data by type also see files aon area and vegetables under additional data.
+
+The second file is on High Yielding Varieties (HYV / hybrids) has data on area under HYVs for 5 major cereal crops. The data on HYVs has a number of gaps in recent years implying that the area is completely under HYVs and hence no longer reported / some states do not publish this data.
